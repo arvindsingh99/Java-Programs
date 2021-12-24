@@ -1,10 +1,4 @@
-// class Cmd{
-//      public static void main(String cmd_input[]){
 
-//          for(int i=0; i<cmd_input.length; i++)
-//          System.out.println(cmd_input[i] +" ");
-//      }
-// }
 
 class Cmd{
      public static void main(String cmd_input[]){
@@ -15,3 +9,11 @@ class Cmd{
         System.out.println(height + " " + color + " " + weight);  
      }
 }
+
+// class Cmd{
+//      public static void main(String cmd_input[]){
+
+//          for(int i=0; i<cmd_input.length; i++)
+//          System.out.println(cmd_input[i] +" ");
+//      }
+// }
