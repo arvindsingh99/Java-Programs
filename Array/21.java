@@ -20,7 +20,7 @@ class Demo {
           }
          }
          if(count==1){
-           System.out.print(a[i]);
+           System.out.print(a[i]+ " ");
          }
     }
   }
